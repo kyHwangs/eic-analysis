@@ -5,9 +5,9 @@ Scripts for DR-EIC analysis
 1. Making calib.csv file
 2. Copy analysis.cc to <path-to-dual-readout>/anaylsis and "make" at build
 
-    cp analysis.cc <path-to-dual-readout>/anaylsis
-    cd <path-to-dual-readout>/build
-    make
+     cp analysis.cc <path-to-dual-readout>/anaylsis
+     cd <path-to-dual-readout>/build
+     make
 
 3. Run analysis code to analysis certain root file.
     
